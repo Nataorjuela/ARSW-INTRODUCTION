@@ -14,18 +14,26 @@ Java
 JUnit
 ### Installing
 1. Para clonar Clonar el repositorio utilizamos el siguiente comando atraves de CMD. 
+```
 git clone https://github.com/Nataorjuela/ARSW-INTRODUCTION.git
+```
 2.Para Compilar el proyecto utilizamos el siguietne comando atraves de CMD.
+```
 mvn package
+```
 3.Para Ejecutar el proyecto utilizamos el siguietne comando atraves de CMD.
+```
 java -cp "./target/classes/" edu.escuelaing.arsw.app.AppCountLine loc /Documentos/archivo.txt
-Estructura al ejecutar app
+```
+### Estructura al ejecutar app
 
 Luego de AppCountLine va el tipoDeOperacion que puede ser LOC o PHY y luego la  ubicación del archivo
 
 ### Running the Tests
 1. Para Compilar pruebas utilizamos el siguiente comando
+```
 mvn test
+```
 Para realizar pruebas con nuevos archivos 
 Las pruebas están realizadas con archivos guardados en la computadora de la autora, cambiar la ruta del archivo en la clase AppCountLineTest
 
