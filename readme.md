@@ -57,7 +57,7 @@ java -cp "./target/classes/" edu.escuelaing.arsw.app.AppCountLine loc /Documento
 ```
 ### Estructura al ejecutar app
 
-Luego de AppCountLine va el tipoDeOperacion que puede ser LOC o PHY y luego la  ubicación del archivo
+después de AppCountLine va el tipo de operacion que puede ser LOC o PHY y luego la  ubicación del archivo
 
 ### Running the Tests
 1. Para Compilar pruebas utilizamos el siguiente comando
@@ -68,6 +68,7 @@ Para realizar pruebas con nuevos archivos
 Las pruebas están realizadas con archivos guardados en la computadora de la autora, cambiar la ruta del archivo en la clase AppCountLineTest
 
 ### Diagrama de clases 📖
+
 ![image](https://user-images.githubusercontent.com/54339107/172726757-312acc58-65a3-42e7-a75f-144db616ff48.png)
 
 
