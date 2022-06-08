@@ -68,6 +68,7 @@ Para realizar pruebas con nuevos archivos
 Las pruebas están realizadas con archivos guardados en la computadora de la autora, cambiar la ruta del archivo en la clase AppCountLineTest
 
 ### Diagrama de clases 📖
+![image](https://user-images.githubusercontent.com/54339107/172726757-312acc58-65a3-42e7-a75f-144db616ff48.png)
 
 
 Se tiene una interfaz con dos metodos: 
