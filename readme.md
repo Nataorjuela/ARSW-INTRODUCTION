@@ -69,7 +69,7 @@ Las pruebas están realizadas con archivos guardados en la computadora de la aut
 
 ### Diagrama de clases 📖
 
-![image](https://user-images.githubusercontent.com/54339107/172726757-312acc58-65a3-42e7-a75f-144db616ff48.png)
+![image](https://user-images.githubusercontent.com/54339107/172727561-2c5be52b-dd4e-4454-987e-2e35586475f8.png)
 
 
 Se tiene una interfaz con dos metodos: 
