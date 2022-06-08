@@ -47,5 +47,5 @@ Se tiene una interfaz con dos metodos:
 
 
 ### Licencia
-Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENSE.txt](LICENSE.txt) para obtener más detalles.
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENSE.txt](http://www.gnu.org/licenses/gpl-3.0.html) para obtener más detalles.
 
