@@ -71,7 +71,8 @@ Las pruebas están realizadas con archivos guardados en la computadora de la aut
 
 ![image](https://user-images.githubusercontent.com/54339107/173155447-7d6e5703-7f3e-4d04-9ac7-2cdefbe4e7a0.png)
 
-
+### Tiempo Dedicado
+111 LOC/16
 ### Licencia
 Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENSE.txt](http://www.gnu.org/licenses/gpl-3.0.html) para obtener más detalles.
 
