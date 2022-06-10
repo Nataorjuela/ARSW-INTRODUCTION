@@ -69,6 +69,10 @@ Las pruebas están realizadas con archivos guardados en la computadora de la aut
 
 ### Tiempo Dedicado
 111 LOC/16
+
+### JAVA DOC
+Acceso a la carpeta [JAVADOC](https://github.com/Nataorjuela/ARSW-INTRODUCTION/tree/master/countLine/javadoc)
+
 ### Licencia
 Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENSE.txt](http://www.gnu.org/licenses/gpl-3.0.html) para obtener más detalles.
 
