@@ -4,8 +4,8 @@ import arsw.app.operaciones.Phy;
 
 import java.io.File;
 /**
- *
- *
+ * en esta clase tenemos dos operaciones las cuales son  Loc y phy
+ * @autor Natalia Orjuela
  */
 public class App 
 {

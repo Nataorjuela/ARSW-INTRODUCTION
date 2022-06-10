@@ -3,11 +3,19 @@ package arsw.app.operaciones;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-
+/**
+ * en esta clase tenemos la operacion phy, el cual devuelve el total de las lineas del docuemnto
+ * @autor Natalia Orjuela
+ */
 public class Phy {
+
     public Phy(File documento){
+
         contarPhy(documento);
     }
+    /* este metodo cuenta las lines del docuemtno completas
+     * @param documento de tipo File
+     */
     public int contarPhy(File documento){
         int totalLineas=0;
         try {
