@@ -55,10 +55,6 @@ mvn clean package
 ```
 java -cp "./target/classes/" arsw.app.App loc C:/Users/Natalia/Documentos/prueba1.txt
 ```
-### Estructura al ejecutar app
-
-después de AppCountLine va el tipo de operacion que puede ser LOC o PHY y luego la  ubicación del archivo
-
 ### Running the Tests
 1. Para Compilar pruebas utilizamos el siguiente comando
 ```
