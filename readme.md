@@ -49,11 +49,11 @@ git clone https://github.com/Nataorjuela/ARSW-INTRODUCTION.git
 ```
 2.Para Compilar el proyecto utilizamos el siguietne comando atraves de CMD.
 ```
-mvn package
+mvn clean package
 ```
 3.Para Ejecutar el proyecto utilizamos el siguietne comando atraves de CMD.
 ```
-java -cp "./target/classes/" edu.escuelaing.arsw.app.AppCountLine loc /Documentos/archivo.txt
+java -cp "./target/classes/" arsw.app.App loc C:/Users/Natalia/Documentos/prueba1.txt
 ```
 ### Estructura al ejecutar app
 
@@ -65,17 +65,11 @@ después de AppCountLine va el tipo de operacion que puede ser LOC o PHY y luego
 mvn test
 ```
 Para realizar pruebas con nuevos archivos 
-Las pruebas están realizadas con archivos guardados en la computadora de la autora, cambiar la ruta del archivo en la clase AppCountLineTest
+Las pruebas están realizadas con archivos guardados en la computadora de la autora, cambiar la ruta del archivo en la clase
 
 ### Diagrama de clases 📖
 
-![image](https://user-images.githubusercontent.com/54339107/172727561-2c5be52b-dd4e-4454-987e-2e35586475f8.png)
-
-
-Se tiene una interfaz con dos metodos: 
-*El primero que es phyCountLines donde su lógica realiza el conteo de lineas del archivo; su parametro es un File donde es la ubicación del archivo que se va a contar.
-*El segundo método locCountLines donde su lógica realiza el conteo de lineas del archivo que solo contengan líneas de código no comentada, este tambien recibe un parametro de tipo File. 
-*Por último en la clase principal AppCountLine realiza el llamado de estos métodos.
+![image](https://user-images.githubusercontent.com/54339107/173155447-7d6e5703-7f3e-4d04-9ac7-2cdefbe4e7a0.png)
 
 
 ### Licencia
