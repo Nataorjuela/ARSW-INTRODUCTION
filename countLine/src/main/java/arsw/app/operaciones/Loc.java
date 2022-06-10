@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 /**
  * en esta clase tenemos la operacion Loc, el cual devuelve el total de las lineas del docuemnto sin comentarios
- * @autor Natalia Orjuela
+ * @author Natalia Orjuela
  */
 public class Loc {
     public Loc(File documento){
